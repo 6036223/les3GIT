@@ -1,0 +1,14 @@
+header{
+    height: 10vh;
+    background-color: rgb(202, 159, 126);
+}
+
+main{
+    height: 80vh;
+    color: antiquewhite;
+}
+
+footer{
+    height: 10vh;
+    background-color: rgb(202, 159, 126);
+}
